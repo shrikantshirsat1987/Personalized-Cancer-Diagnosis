@@ -1,5 +1,5 @@
 # Personalized-Cancer-Diagnosis
-Case study - Personalized Cancer Diagnosis¶
+
 1. Business Problem
 1.1. Description
 Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/
