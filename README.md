@@ -1,6 +1,6 @@
 # Personalized-Cancer-Diagnosis
 
-## 1.1. Description
+## 1. Description
 
 A lot has been said during the past several years about how precision medicine and, more concretely, how genetic testing is going to disrupt the way diseases like cancer are treated.
 
@@ -17,7 +17,7 @@ We need your help to develop a Machine Learning algorithm that, using this knowl
 Context:
 Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/discussion/35336#198462
 
-## 1. Business Problem
+## 1.1 Business Problem
 
 ## Problem statement :
 Classify the given genetic variations/mutations based on evidence from text-based clinical literature.
@@ -53,3 +53,6 @@ Objective: Predict the probability of each data-point belonging to each of the n
 +  Penalize the errors in class probabilites => Metric is Log-loss.
 
 +  No Latency constraints.
+
+## Acknowledgments
++  Applied AI Course
