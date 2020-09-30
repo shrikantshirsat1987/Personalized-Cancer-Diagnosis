@@ -14,7 +14,8 @@ For this competition MSKCC is making available an expert-annotated knowledge bas
 
 We need your help to develop a Machine Learning algorithm that, using this knowledge base as a baseline, automatically classifies genetic variations.
 
-Context:
+**Context**:
+
 Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/discussion/35336#198462
 
 ## 1.1 Business Problem
